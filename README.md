@@ -18,6 +18,8 @@ To install, watch [this loom video tutorial](https://www.loom.com/share/3feca10c
 
 ## Usage
 
+### [Live Webpage Link](https://cjswayne.github.io/horiseon_portfolio_page/)
+
 This static page is used to talk about the company Horiseon and its benefits. 
 
 Rendered page:
